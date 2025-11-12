@@ -1,1 +1,1 @@
-echo "exit.sh run"
+echo "Thank you!"
